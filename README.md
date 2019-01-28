@@ -13,4 +13,5 @@ It will run a reverse DNS query to look up the hostname and populate a CSV file 
 
 If Hostname is found:
 It will run a DNS query to lookup the IP and populate a CSV file (devicehost2deviceip.csv)
+
 You can then use these 2 CSVs in separate Custom Feeds within the NetWitness UI to manage any device.host and populate the device.ip or vice versa.
